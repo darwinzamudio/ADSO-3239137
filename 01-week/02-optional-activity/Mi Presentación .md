@@ -1,90 +1,79 @@
-# Presentación Personal
+# 👋 Hola, soy Darwin Zamudio
 
-## Tabla de contenidos
-- [¿Quién soy?](#quién-soy)
-- [Trayectoria Profesional](#trayectoria-profesional)
-- [Labores que he desempeñado](#labores-que-he-desempeñado)
-- [Oficios y actividades complementarias](#oficios-y-actividades-complementarias)
-- [Carrera y formación](#carrera-y-formación)
-- [ECO TELLO – Iniciativa social y ambiental](#eco-tello--iniciativa-social-y-ambiental)
-- [Enfoque y proyección](#enfoque-y-proyección)
+🎓 **Psicólogo** | 💻 **Técnico en Sistemas (SENA)** | 🚀 **Estudiante de Desarrollo de Software (SENA)**  
+🌱 Fundador de **ECO TELLO** | 🤝 Enfoque social, comunitario y ambiental
 
 ---
 
-## ¿Quién soy?
+## 🧠 Sobre mí
 
-Soy un profesional en **Psicología**, con experiencia en los sectores **salud**, **social** y **comunitario**, orientado al trabajo con personas, colectivos y territorios. Me caracterizo por un enfoque humano, preventivo y participativo, articulando el conocimiento técnico con el compromiso social y comunitario.
+Soy profesional en **Psicología**, con experiencia en los sectores **salud**, **social** y **comunitario**, orientado al trabajo con personas, colectivos y territorios. Me caracterizo por un enfoque humano, preventivo y participativo, integrando la **psicología**, la **tecnología** y el **compromiso social**.
 
----
-
-## Trayectoria Profesional
-
-He desarrollado mi trayectoria principalmente en el **ámbito de la salud pública y comunitaria**, participando en procesos de promoción, prevención e intervención psicosocial, tanto en contextos urbanos como rurales.
-
-Me desempeñé como psicólogo en el **Hospital Miguel Barreto López de Tello (Huila)**, realizando orientación a pacientes, acompañamiento psicológico y seguimiento de casos relacionados con ansiedad, depresión y otras problemáticas de salud mental.
+He trabajado en procesos de promoción, prevención e intervención psicosocial, y actualmente complemento mi perfil con formación técnica y tecnológica en **sistemas y desarrollo de software**, aplicando la tecnología como herramienta de transformación social.
 
 ---
 
-## Labores que he desempeñado
+## 🏥 Experiencia
 
-- Atención y orientación psicológica individual y comunitaria.
-- Seguimiento de casos en salud mental.
-- Diseño y ejecución de actividades de **Información, Educación y Comunicación (IEC)**.
-- Desarrollo de talleres educativos y procesos de sensibilización.
-- Formulación, ejecución y sistematización de proyectos sociales y comunitarios.
-- Apoyo a procesos institucionales del **Plan de Intervenciones Colectivas (PIC)**.
-- Elaboración de informes técnicos y documentación institucional.
+- Psicólogo – **Hospital Miguel Barreto López** (Tello, Huila)  
+  - Orientación psicológica y acompañamiento a pacientes.  
+  - Seguimiento de casos de ansiedad, depresión y salud mental.  
+  - Trabajo comunitario y apoyo a procesos del **PIC**.
 
----
-
-## Oficios y actividades complementarias
-
-Además de mi ejercicio profesional, desarrollo actividades técnicas y creativas complementarias:
-
-- Profesional en **Psicología**.
-- **Reparación de computadores** y soporte técnico.
-- **Diseño gráfico**, enfocado en material educativo, institucional y comunitario.
-
-Estas habilidades fortalecen mis proyectos y facilitan la comunicación visual, el uso de tecnologías y la sistematización de la información.
+- Proyectos comunitarios y sociales  
+  - Diseño y ejecución de actividades de **Información, Educación y Comunicación (IEC)**.  
+  - Talleres educativos y procesos de sensibilización comunitaria.  
 
 ---
 
-## Carrera y formación
+## 🌱 ECO TELLO
 
-Mi carrera profesional está orientada al fortalecimiento del bienestar individual y colectivo, la salud mental, la educación comunitaria y el desarrollo social.
+Soy fundador y coordinador de **ECO TELLO**, una iniciativa **social, ambiental y comunitaria** enfocada en el desarrollo sostenible del municipio de **Tello, Huila**.
 
-He participado en procesos de formación continua y en programas articulados con entidades como el **SENA**, la **UNAD** y organizaciones territoriales, así como en proyectos ambientales, sociales y educativos.
-
----
-
-## ECO TELLO – Iniciativa social y ambiental
-
-Soy fundador y coordinador de **ECO TELLO**, una iniciativa social, ambiental y comunitaria que promueve la educación, el servicio social y el desarrollo sostenible en el municipio de **Tello, Huila**.
-
-Desde ECO TELLO he liderado proyectos enfocados en:
-
-- Educación ambiental y conciencia ecológica.
-- Procesos de **reforestación** y cuidado de fuentes hídricas.
-- **Servicio social estudiantil** con enfoque comunitario.
-- Formación ciudadana y liderazgo juvenil.
-- Articulación con instituciones educativas, entidades públicas y comunidades.
-
-ECO TELLO se consolida como un espacio de participación, aprendizaje y compromiso social, aportando al fortalecimiento del tejido social y ambiental del territorio.
+### Líneas de trabajo:
+- 🌳 Educación ambiental y reforestación  
+- 🤝 Servicio social estudiantil con enfoque comunitario  
+- 🧠 Formación ciudadana y liderazgo juvenil  
+- 🏘️ Articulación con instituciones y comunidades  
 
 ---
 
-## Enfoque y proyección
+## 💻 Formación y roles técnicos
 
-Mi trabajo se fundamenta en:
-
-- El respeto por la dignidad humana.
-- La participación comunitaria.
-- La prevención y promoción de la salud.
-- El compromiso social y territorial.
-- La sostenibilidad ambiental.
-
-Mi proyección profesional busca seguir aportando al desarrollo comunitario, la salud mental, la educación y el cuidado del medio ambiente, fortaleciendo iniciativas sociales como **ECO TELLO**.
+- 🎓 Profesional en **Psicología**
+- 🛠️ **Técnico en Sistemas – SENA**
+- 📚 **Estudiante de Desarrollo de Software – SENA**
+- 🔧 Reparación y mantenimiento de computadores
+- 🎨 Diseño gráfico educativo e institucional
 
 ---
 
-**Gracias por su atención**
+## 🧰 Habilidades
+
+**Psicosociales**
+- Atención y orientación psicológica  
+- Intervención comunitaria  
+- Educación y prevención en salud mental  
+
+**Tecnológicas**
+- Soporte técnico y sistemas
+- Pensamiento lógico y bases de programación
+- Uso de herramientas digitales para proyectos sociales
+
+---
+
+## 🎯 Enfoque
+
+- Salud mental y bienestar
+- Desarrollo comunitario
+- Educación y servicio social
+- Tecnología con impacto social
+- Sostenibilidad ambiental
+
+---
+
+📫 **Conectemos**  
+Si te interesa colaborar en proyectos sociales, tecnológicos o comunitarios, ¡bienvenido!
+
+⭐ *Este perfil integra psicología, tecnología y compromiso social.*
+
